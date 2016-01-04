@@ -139,10 +139,13 @@
     }, 
     {
         "city": [
-            "澳门", 
-            "香港"
         ], 
-        "provinceName": "特别行政区"
+        "provinceName": "澳门"
+    }, 
+    {
+        "city": [
+        ], 
+        "provinceName": "香港"
     }, 
     {
         "city": [
@@ -398,12 +401,23 @@
     }, 
     {
         "city": [
-            "北京", 
-            "天津", 
-            "重庆", 
-            "上海"
         ], 
-        "provinceName": "直辖市"
+        "provinceName": "北京"
+    }, 
+    {
+        "city": [
+        ], 
+        "provinceName": "天津"
+    }, 
+    {
+        "city": [
+        ], 
+        "provinceName": "重庆"
+    }, 
+    {
+        "city": [
+        ], 
+        "provinceName": "上海"
     }, 
     {
         "city": [

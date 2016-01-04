@@ -1,6 +1,36 @@
 [
     {
         "city": [
+        ], 
+        "provinceName": "北京"
+    }, 
+    {
+        "city": [
+        ], 
+        "provinceName": "天津"
+    }, 
+    {
+        "city": [
+        ], 
+        "provinceName": "重庆"
+    }, 
+    {
+        "city": [
+        ], 
+        "provinceName": "上海"
+    }, 
+    {
+        "city": [
+        ], 
+        "provinceName": "澳门"
+    }, 
+    {
+        "city": [
+        ], 
+        "provinceName": "香港"
+    }, 
+    {
+        "city": [
             "安顺", 
             "黔南", 
             "六盘水", 
@@ -136,16 +166,6 @@
             "阿勒泰"
         ], 
         "provinceName": "新疆"
-    }, 
-    {
-        "city": [
-        ], 
-        "provinceName": "澳门"
-    }, 
-    {
-        "city": [
-        ], 
-        "provinceName": "香港"
     }, 
     {
         "city": [
@@ -398,26 +418,6 @@
             "湘西"
         ], 
         "provinceName": "湖南"
-    }, 
-    {
-        "city": [
-        ], 
-        "provinceName": "北京"
-    }, 
-    {
-        "city": [
-        ], 
-        "provinceName": "天津"
-    }, 
-    {
-        "city": [
-        ], 
-        "provinceName": "重庆"
-    }, 
-    {
-        "city": [
-        ], 
-        "provinceName": "上海"
     }, 
     {
         "city": [
